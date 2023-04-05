@@ -53,4 +53,4 @@
 * Код для первой части задания (**HSETest.ipynb, Задание 1**)
 * Код для второй части задания (**HSETest.ipynb, Задание 2**)
 * Таблица с трансформированными данными: [ссылка на Google Sheets](https://docs.google.com/spreadsheets/d/134Tk3kDTRF5NbRyk9kQOWLAlnB-Ex-RJpu7985w93MM/edit?usp=sharing)
-* Набор визуализаций (папка visualizations)
+* Набор визуализаций (папка visualizations или [Google Doc](https://docs.google.com/document/d/19usAGDY200gVZoFN0835UqS0ISW9Z69vpm6tEdle3DU/edit?usp=sharing))
